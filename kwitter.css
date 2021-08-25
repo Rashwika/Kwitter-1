@@ -1,0 +1,9 @@
+body{
+    background-image: url(BgImage.jpg);
+}
+#name{
+    background-color: crimson;
+    text-align: center;
+    font-size: 28px;
+    width: 100px;
+}
